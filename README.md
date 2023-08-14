@@ -1,6 +1,6 @@
 # CSE215_Project
 
-Overview
+# # Overview:
 
 NSU Car rental service, this application is being used for users to rent vehicles online. User can give his booking date as well as his all personal information. Finally the application will offer 4 vehicles. After choosing one the application will show the total bill in a transaction receipt.
 
